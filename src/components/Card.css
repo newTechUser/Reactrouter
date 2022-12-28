@@ -1,0 +1,32 @@
+.maincard{
+    border: 1px solid rgb(182, 181, 181);
+    border-radius: 10px;
+    box-shadow: 50px;
+    height: 500px;
+    position: relative;
+}
+.circle{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.cardtitletext{
+    padding-top: 30px;
+}
+.cardtext{
+    padding-left: 50px;
+}
+.floatright{
+    padding-left: 20px;
+}
+.cardendtext{
+    display: flex;
+    align-items: center;
+}
+.cardeticet{
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    position: absolute;
+    padding: 5px;
+} 
