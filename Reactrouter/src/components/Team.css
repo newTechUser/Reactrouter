@@ -1,0 +1,36 @@
+.team{
+    background-color: #F8F9FA;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+.teamtitle{
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+}
+.teammaintext{
+    text-align: center;
+    font-size: 20px;
+}
+
+.cards{
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.cardsimage{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.cardsimagetitle{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.cardsendtext{
+    font-size: 15px;
+    text-align: center;
+}

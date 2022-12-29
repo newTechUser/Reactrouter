@@ -1,0 +1,25 @@
+.sectionone{
+    padding-top: 200px;
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+.cardtitletext{
+    font-size: 20px;
+    font-weight: bold;
+}
+.cardmaintext{
+    font-size: 15px;
+}
+.icon{
+    width: 50px;
+    height:50px;
+    background-color: blue;
+    border-radius: 10px;
+}
+.onecol{
+    height: 350px;
+}
